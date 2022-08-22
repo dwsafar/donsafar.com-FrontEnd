@@ -3,7 +3,7 @@
 
 // Open a new connection, using the GET request on the URL endpoint
 
-		request.open('GET', 'https://y4iuhzm666.execute-api.us-east-1.amazonaws.com/Production/', true)
+		request.open('GET', 'https://gwphm5dx15.execute-api.us-east-1.amazonaws.com/Production/', true)
 		request.onload = function () {
   
 var data = JSON.parse(this.response)
